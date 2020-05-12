@@ -1,0 +1,1281 @@
+# Copyright (C) 2018 MyThemeShop
+# This file is distributed under the same license as the MyThemeShop Base Theme package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Great by MyThemeShop\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2020-01-28 22:58+0530\n"
+"PO-Revision-Date: 2017-07-23 01:08+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: ../404.php:13
+msgid "Oops! We couldn't Found this Page."
+msgstr ""
+
+#: ../404.php:14
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: ../archive.php:9 ../archive.php:11
+msgid " Archive"
+msgstr ""
+
+#: ../archive.php:13
+msgid "Search Results for:"
+msgstr ""
+
+#: ../archive.php:15
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:17
+msgid "Daily Archive:"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Monthly Archive:"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Yearly Archive:"
+msgstr ""
+
+#: ../archive.php:54 ../index.php:37
+msgid "There has been an error."
+msgstr ""
+
+#: ../archive.php:55 ../index.php:38
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+
+#: ../archive.php:64 ../index.php:47
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../archive.php:65 ../index.php:48
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: ../functions.php:131
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: ../functions.php:136
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:139
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/plugin-activation.php:351
+#: ../functions/plugin-activation.php:3962
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/plugin-activation.php:352
+#: ../functions/plugin-activation.php:3963
+#: ../functions/plugin-activation.php:4034
+#: ../functions/plugin-activation.php:4035
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/plugin-activation.php:353
+#: ../functions/plugin-activation.php:3964
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:354
+#: ../functions/plugin-activation.php:3965
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/plugin-activation.php:415
+#: ../functions/plugin-activation.php:3976
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/plugin-activation.php:416
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../functions/plugin-activation.php:417
+#: ../functions/plugin-activation.php:3179
+#: ../functions/plugin-activation.php:3977
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/plugin-activation.php:418
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions/plugin-activation.php:419
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../functions/plugin-activation.php:420
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../functions/plugin-activation.php:421
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:422
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/plugin-activation.php:423
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../functions/plugin-activation.php:1317
+#: ../functions/plugin-activation.php:2266
+#: ../functions/plugin-activation.php:3996
+msgid "MyThemeShop"
+msgstr ""
+
+#: ../functions/plugin-activation.php:1343
+msgid "Available Separately"
+msgstr ""
+
+#: ../functions/plugin-activation.php:1959
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2244
+msgid "Required"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2247
+#: ../functions/plugin-activation.php:4128
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2263
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2269
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2286
+#: ../functions/plugin-activation.php:2462
+#: ../functions/plugin-activation.php:4289
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2290
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2292
+#: ../functions/plugin-activation.php:4215
+msgid "Active"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2298
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2301
+msgid "Requires Update"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2304
+msgid "Update recommended"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2312
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2463
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2464
+#, php-format
+msgid "Source: %s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2467
+msgid "Visit plugin site"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2485
+msgid "unknown"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2493
+msgid "Installed version:"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2501
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2513
+msgid "Available version:"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2536
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2550
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2551
+msgid "Description"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2606
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2610
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2615
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2753
+msgid "Install"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2759
+msgid "Update"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2762
+msgid "Activate"
+msgstr ""
+
+#: ../functions/plugin-activation.php:2793
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../functions/plugin-activation.php:2795
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../functions/plugin-activation.php:2831
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/plugin-activation.php:2833
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3178
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3512
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin-activation.php:3514
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3515
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3519
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3520
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3521
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3522
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin-activation.php:3525
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3527
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3528
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin-activation.php:3790
+msgid ""
+"We created <a href=\"https://mythemeshop.com/plugins/wordpress-seo/\">Rank "
+"Math, a WordPress SEO plugin</a>, to help every website owner get access to "
+"the SEO tools they need to improve their SEO and attract more traffic to "
+"their website."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3813
+msgid ""
+"A simple and easy way to update your MyThemeShop themes and plugins to the "
+"the latest versions using good old one click method!"
+msgstr ""
+
+#: ../functions/plugin-activation.php:3824
+msgid ""
+"WP Tab Widget Pro is the most powerful plugin for showing recommended "
+"content on blog posts to increase engagement and keep visitors on your site "
+"purpose."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3835
+msgid ""
+"Create reviews! Choose from Stars, Percentages, Circles or Points for review "
+"scores. Supports Retina Display, WPMU & Unlimited Color Schemes."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3846
+msgid ""
+"These days, having an email subscriber list is key to running a successful "
+"blog, so we created WP Subscribe Pro. Boost your conversions of traffic to "
+"subscribers, and generate more residual traffic and earnings. WP Subscribe "
+"Pro supports Feedburner, MailChimp and Aweber and is a must-have plugin for "
+"any blog."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3857
+#: ../functions/plugin-activation.php:3896
+msgid ""
+"WP Quiz is a completely FREE quiz plugin that will let you create endlessly "
+"customizable and highly professional quizzes for your WordPress site."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3868
+msgid ""
+"WP Notification Bar is a custom notification and alert bar plugin for "
+"WordPress which is perfect for marketing promotions, alerts, increasing "
+"click throughs to other pages and so much more."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3877
+msgid ""
+"WP Mega Menu is an easy to use plugin for creating beautiful, customized "
+"menus for your site. With no setup required, tons of options to choose from, "
+"and the ability to show categories, subcategories and posts, WP MegaMenu is "
+"a must have plugin that also boosts SEO and user engagement."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3907
+msgid ""
+"My WP Backup Pro is the best way to protect your data and website in the "
+"event of adverse server events, data corruption, hacking and more. With the "
+"option to schedule backups and have them delivered via email, Amazon S3, and "
+"lots of other features, you can sleep easy knowing you're protected."
+msgstr ""
+
+#: ../functions/plugin-activation.php:3978
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4123
+msgid "Essential"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4155
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4156
+#, php-format
+msgid "MyThemeShop and third party plugins recommended for %s theme!"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4203
+msgid "Get Pro Version!"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4217
+msgid "Manage Plugin"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4222
+msgid "Inactive"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4236
+msgid "Activate Plugin"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4243
+msgid "Update Now"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4251
+msgid "Get it!"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4269
+msgid "Install Plugin"
+msgstr ""
+
+#: ../functions/plugin-activation.php:4361
+msgid "Loading..."
+msgstr ""
+
+#: ../functions/rank-math-notice.php:31
+msgid "Install for FREE"
+msgstr ""
+
+#: ../functions/rank-math-notice.php:35
+msgid "Activate it now"
+msgstr ""
+
+#: ../functions/rank-math-notice.php:134
+msgid "Activating..."
+msgstr ""
+
+#: ../functions/rm-seo.php:32
+msgid "Try it for FREE!"
+msgstr ""
+
+#: ../functions/rm-seo.php:33
+msgid "Click here to activate it."
+msgstr ""
+
+#: ../functions/rm-seo.php:37
+#, php-format
+msgid ""
+"%1$s is a revolutionary SEO product that combines the features of many SEO "
+"tools. Its features give you the power of an entire SEO team with just a few "
+"clicks."
+msgstr ""
+
+#: ../functions/rm-seo.php:44
+#, php-format
+msgid "The new %1$s plugin will help you rank better in the search results."
+msgstr ""
+
+#: ../functions/rm-seo.php:47
+#, php-format
+msgid "The %1$s plugin is installed but not activated."
+msgstr ""
+
+#: ../functions/rm-seo.php:54
+msgid "Did you know?"
+msgstr ""
+
+#: ../functions/rm-seo.php:57
+#, php-format
+msgid ""
+"The new %1$s plugin can make your site load faster, offers more features, "
+"and can import your current SEO settings with one click."
+msgstr ""
+
+#: ../functions/rm-seo.php:133
+msgid "Rank Math SEO"
+msgstr ""
+
+#: ../functions/rm-seo.php:145
+msgid "Dismiss"
+msgstr ""
+
+#: ../functions/rm-seo.php:604
+msgid "SEO"
+msgstr ""
+
+#: ../functions/rm-seo.php:605
+msgid ""
+"Fix all your SEO issues with just a few clicks. Comply with all the latest "
+"Google’s guidelines."
+msgstr ""
+
+#: ../functions/rm-seo.php:611
+msgid "Install Now"
+msgstr ""
+
+#: ../functions/rm-seo.php:611
+msgid "Activate It"
+msgstr ""
+
+#: ../functions/rm-seo.php:1142
+msgid "Redirecting to Rank Math Setup Wizard..."
+msgstr ""
+
+#: ../functions/theme-actions.php:57
+msgid "Stay Connected with us"
+msgstr ""
+
+#: ../functions/theme-actions.php:201
+msgid "Not Connected"
+msgstr ""
+
+#: ../functions/theme-actions.php:202
+msgid ""
+"You will find all the theme options here after connecting with your "
+"MyThemeShop account."
+msgstr ""
+
+#: ../functions/widget-ad125.php:31
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr ""
+
+#: ../functions/widget-ad125.php:42
+msgid "MyThemeShop 125x125 Ads"
+msgstr ""
+
+#: ../functions/widget-ad125.php:189
+msgid "Our Sponsors"
+msgstr ""
+
+#: ../functions/widget-ad125.php:209 ../functions/widget-ad300.php:126
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:215
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:221
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:227
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:233
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:239
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:245
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:251
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:257
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:263
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:269
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:275
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:281
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: ../functions/widget-ad125.php:287
+msgid "Randomize ads order?"
+msgstr ""
+
+#: ../functions/widget-ad300.php:32
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr ""
+
+#: ../functions/widget-ad300.php:43
+msgid "MyThemeShop 300x250 Ad"
+msgstr ""
+
+#: ../functions/widget-ad300.php:132
+msgid "Ad image url:"
+msgstr ""
+
+#: ../functions/widget-ad300.php:138
+msgid "Ad link url:"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:20
+msgid "Add Facebook Like Box."
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:24
+msgid "FB Like Box"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:90
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:94
+msgid "Title"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:99
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:104
+msgid "Width"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:110
+msgid "Show faces"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:115
+msgid "Show stream"
+msgstr ""
+
+#: ../functions/widget-fblikebox.php:120
+msgid "Show facebook header"
+msgstr ""
+
+#: ../functions/widget-tweets.php:12
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../functions/widget-tweets.php:13
+msgid "A widget for showing latest tweets in sidebar"
+msgstr ""
+
+#: ../functions/widget-tweets.php:35
+msgid "Couldn't retrieve tweets! Wrong username?"
+msgstr ""
+
+#: ../functions/widget-tweets.php:87
+msgid "API Key"
+msgstr ""
+
+#: ../functions/widget-tweets.php:87
+msgid "API Secret"
+msgstr ""
+
+#: ../functions/widget-tweets.php:87
+msgid "Access Token"
+msgstr ""
+
+#: ../functions/widget-tweets.php:88
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../functions/widget-tweets.php:88
+msgid "Cache Tweets in every"
+msgstr ""
+
+#: ../functions/widget-tweets.php:88 ../theme-options.php:172
+msgid "Twitter Username"
+msgstr ""
+
+#: ../functions/widget-tweets.php:89
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: ../functions/widget-tweets.php:116
+msgid "right now"
+msgstr ""
+
+#: ../functions/widget-tweets.php:117
+#, php-format
+msgid "%s seconds ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:118
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:119
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:120
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:121
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:122
+msgid "yesterday"
+msgstr ""
+
+#: ../functions/widget-tweets.php:123
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: ../functions/widget-tweets.php:124
+msgid "over a year ago"
+msgstr ""
+
+#: ../options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../options/fields/multi_text/field_multi_text.php:39
+#: ../options/fields/multi_text/field_multi_text.php:46
+#: ../options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: ../options/options.php:47 ../options/options.php:49
+msgid "Options"
+msgstr ""
+
+#: ../options/options.php:588
+msgid "Save Changes"
+msgstr ""
+
+#: ../options/options.php:596
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../options/options.php:598
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../options/options.php:602
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../options/options.php:603
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../options/options.php:605
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../options/options.php:626
+msgid "Import / Export"
+msgstr ""
+
+#: ../options/options.php:644 ../options/options.php:727
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../options/options.php:662
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../options/options.php:664
+msgid "Import Options"
+msgstr ""
+
+#: ../options/options.php:672
+msgid ""
+"Input your backup code below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../options/options.php:685
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../options/options.php:695
+msgid "Import"
+msgstr ""
+
+#: ../options/options.php:695
+msgid ""
+"WARNING! Importing options will overwrite your existing options, please "
+"proceed with caution and consider exporting your current options as backups."
+msgstr ""
+
+#: ../options/options.php:698
+msgid "Export Options"
+msgstr ""
+
+#: ../options/options.php:700
+msgid ""
+"Here, you can export and download your current options settings.  Keep this "
+"safe, as you can use it for backup in case of an emergency.  You can also "
+"use this to restore settings on this site, or on any other site using this "
+"theme.  You can also copy the link to your settings, and duplicate it to "
+"another site, which is useful if you have a network of blogs that all need "
+"the same settings."
+msgstr ""
+
+#: ../options/options.php:754
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../options/support.php:47 ../theme-options.php:130
+msgid "Support"
+msgstr ""
+
+#: ../options/support.php:50
+#, php-format
+msgid ""
+"We offer technical support through our %s. Please <strong>copy and paste the "
+"following information in your ticket</strong> when contacting support:"
+msgstr ""
+
+#: ../options/support.php:50
+msgid "Support Ticket System"
+msgstr ""
+
+#: ../options/support.php:63
+msgid "Generating log. Please wait..."
+msgstr ""
+
+#: ../options/support.php:80
+msgid "Copy Data for Support Request"
+msgstr ""
+
+#: ../options/support.php:84
+msgid "Open Support Forum"
+msgstr ""
+
+#: ../options/support.php:146
+msgid "Environment"
+msgstr ""
+
+#: ../options/support.php:151
+msgid "WordPress"
+msgstr ""
+
+#: ../options/support.php:156
+msgid "Plugins"
+msgstr ""
+
+#: ../options/support.php:161
+msgid "Theme"
+msgstr ""
+
+#: ../options/support.php:166
+msgid "Theme Settings"
+msgstr ""
+
+#: ../options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../sidebar.php:8
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: ../single.php:12
+msgid "Posted by "
+msgstr ""
+
+#: ../single.php:12
+msgid " in "
+msgstr ""
+
+#: ../single.php:12
+msgid " On "
+msgstr ""
+
+#: ../single.php:49 ../theme-options.php:279
+msgid "Related Posts"
+msgstr ""
+
+#: ../single.php:79
+msgid "About Author"
+msgstr ""
+
+#: ../theme-options.php:32
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../theme-options.php:33
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../theme-options.php:103 ../theme-options.php:106
+msgid "Great"
+msgstr ""
+
+#: ../theme-options.php:131
+msgid ""
+"<p>If you are facing any problem with our theme or theme option panel, head "
+"over to our <a href=\"http://community.mythemeshop.com\">Support Forum</a></"
+"p>"
+msgstr ""
+
+#: ../theme-options.php:135
+msgid "Credit"
+msgstr ""
+
+#: ../theme-options.php:136
+msgid ""
+"<p>Options Panel created using the <a href=\"http://leemason.github.com/NHP-"
+"Theme-Options-Framework/\" target=\"_blank\">NHP Theme Options Framework</a> "
+"Version 1.0.5</p>"
+msgstr ""
+
+#: ../theme-options.php:140
+msgid "Earn Money"
+msgstr ""
+
+#: ../theme-options.php:141
+#, php-format
+msgid ""
+"<p>Earn 50% commision on every sale by refering your friends and readers. "
+"Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate "
+"Program</a>.</p>"
+msgstr ""
+
+#: ../theme-options.php:153
+msgid "General Settings"
+msgstr ""
+
+#: ../theme-options.php:154
+msgid ""
+"<p class=\"description\">This tab contains common setting options which will "
+"be applied to whole theme.</p>"
+msgstr ""
+
+#: ../theme-options.php:160
+msgid "Logo Image"
+msgstr ""
+
+#: ../theme-options.php:161
+msgid "Upload your logo using the Upload Button or insert image URL."
+msgstr ""
+
+#: ../theme-options.php:166
+msgid "Favicon"
+msgstr ""
+
+#: ../theme-options.php:167
+msgid ""
+"Upload a <strong>16 x 16 px</strong> image that will represent your "
+"website's favicon. You can refer to this link for more information on how to "
+"make it: <a href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow"
+"\">http://www.favicon.cc/</a>"
+msgstr ""
+
+#: ../theme-options.php:173
+msgid "Enter your Username here."
+msgstr ""
+
+#: ../theme-options.php:178
+msgid "FeedBurner URL"
+msgstr ""
+
+#: ../theme-options.php:179
+msgid "Enter your FeedBurner's URL here.)"
+msgstr ""
+
+#: ../theme-options.php:185
+msgid "Facebook Link"
+msgstr ""
+
+#: ../theme-options.php:186
+msgid "Enter your Facebook profile or page link here."
+msgstr ""
+
+#: ../theme-options.php:192
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../theme-options.php:193
+msgid "Enter your G+ profile link here."
+msgstr ""
+
+#: ../theme-options.php:199
+msgid "LinkedIn Link"
+msgstr ""
+
+#: ../theme-options.php:200
+msgid "Enter your LinkedIn profile link here."
+msgstr ""
+
+#: ../theme-options.php:206
+msgid "Pinterest Profile"
+msgstr ""
+
+#: ../theme-options.php:207
+msgid "Enter Pinterest Profile link here."
+msgstr ""
+
+#: ../theme-options.php:213
+msgid "Header Code"
+msgstr ""
+
+#: ../theme-options.php:214
+msgid ""
+"Enter the code which you need to place <strong>before closing </head> tag</"
+"strong>. (ex: Google Webmaster Tools verification, Bing Webmaster Center, "
+"BuySellAds Script, Alexa verification etc.)"
+msgstr ""
+
+#: ../theme-options.php:219
+msgid "Footer Code"
+msgstr ""
+
+#: ../theme-options.php:220
+msgid ""
+"Enter the codes which you need to place in your footer. <strong>(ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr ""
+
+#: ../theme-options.php:225
+msgid "Copyrights Text"
+msgstr ""
+
+#: ../theme-options.php:226
+msgid ""
+"You can change or remove our link from footer and use your own custom text. "
+"(Link back is always appreciated)"
+msgstr ""
+
+#: ../theme-options.php:232
+msgid "Pagination"
+msgstr ""
+
+#: ../theme-options.php:233
+msgid ""
+"Enable or disable paginated navigation, which replaces the <strong>\"Older "
+"Posts\"</strong> and <strong>\"Newer Posts\"</strong> links with helpful "
+"numbered page links."
+msgstr ""
+
+#: ../theme-options.php:240
+msgid "Styling Options"
+msgstr ""
+
+#: ../theme-options.php:241
+msgid ""
+"<p class=\"description\">Control the visual appearance of your theme, such "
+"as colors, layout and patterns, from here.</p>"
+msgstr ""
+
+#: ../theme-options.php:246
+msgid "Color Scheme"
+msgstr ""
+
+#: ../theme-options.php:247
+msgid ""
+"Boxline Theme comes with unlimited color schemes for your theme's styling."
+msgstr ""
+
+#: ../theme-options.php:253
+msgid "Background Color"
+msgstr ""
+
+#: ../theme-options.php:254
+msgid ""
+"Pick any color using the <strong>color picker</strong>, or enter a hex color "
+"value in the input field to make it the site background color for your theme."
+msgstr ""
+
+#: ../theme-options.php:260
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../theme-options.php:261
+msgid "Upload your own custom background image or pattern."
+msgstr ""
+
+#: ../theme-options.php:266
+msgid "Custom CSS"
+msgstr ""
+
+#: ../theme-options.php:267
+msgid ""
+"You can enter your own custom CSS here to further customize your theme. This "
+"will override the default CSS used on your site."
+msgstr ""
+
+#: ../theme-options.php:273
+msgid "Single Posts"
+msgstr ""
+
+#: ../theme-options.php:274
+msgid ""
+"<p class=\"description\">From here, you can control the appearance and "
+"functionality of your single posts page.</p>"
+msgstr ""
+
+#: ../theme-options.php:281
+msgid ""
+"Use this button to show related posts with thumbnails below the content area "
+"in a post."
+msgstr ""
+
+#: ../theme-options.php:287
+msgid "Tag Links"
+msgstr ""
+
+#: ../theme-options.php:289
+msgid ""
+"Use this button if you want to show a tag cloud below the related posts."
+msgstr ""
+
+#: ../theme-options.php:295
+msgid "Author Box"
+msgstr ""
+
+#: ../theme-options.php:297
+msgid ""
+"Use this button if you want to display author information below the article."
+msgstr ""
+
+#: ../theme-options.php:304
+msgid "Ad Management"
+msgstr ""
+
+#: ../theme-options.php:305
+msgid ""
+"<p class=\"description\">Now, ad management is easy with our options panel. "
+"You can control everything from here, without using separate plugins.</p>"
+msgstr ""
+
+#: ../theme-options.php:310
+msgid "Below Post Title"
+msgstr ""
+
+#: ../theme-options.php:311
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below your article "
+"title on single posts."
+msgstr ""
+
+#: ../theme-options.php:316
+msgid "Below Post Content"
+msgstr ""
+
+#: ../theme-options.php:317
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below the post "
+"content on single posts."
+msgstr ""
+
+#: ../theme-options.php:323
+msgid "Navigation"
+msgstr ""
+
+#: ../theme-options.php:324
+msgid ""
+"<p class=\"description\"><div class=\"controls\"><b>Navigation settings can "
+"now be modified from the <a href=\"nav-menus.php\">Menus Section</a>.</"
+"b><br></div></p>"
+msgstr ""
+
+#: ../theme-options.php:334
+msgid "Documentation"
+msgstr ""

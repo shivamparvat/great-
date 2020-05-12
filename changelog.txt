@@ -1,0 +1,165 @@
+v1.1.4 (Jan 29, 2020)
+-----------------------------
+- Fixed missing closing 'div' tag in the breadcrumbs code
+
+Files Updated:
+- functions.php
+- style.css
+
+
+v1.1.3 (Jan 28, 2020)
+-----------------------------
+- Fixed 'data-vocabulary' schema warning in the breadcrumbs
+
+Files Updated:
+- functions.php
+- header.php
+- lang/default.pot
+- style.css
+
+
+v1.1.2 (July 22, 2019)
+-----------------------------
+- Fixed 'Upload Theme' button not working
+- Fixed PHP v7.2 compatibility issues
+
+Files Updated:
+- functions.php
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- lang/default.pot
+- options/css/options.css
+- style.css
+
+
+v1.1.1 (Jan 16, 2019)
+-----------------------------
+- Added More SEO Tweaks
+- Added better integration with Rank Math SEO plugin
+- Added integration for Rank Math SEO Breadcrumbs
+- Fixed MyThemeShop Connect install issue on Recommended Plugins page
+
+Files Updated:
+- archive.php
+- functions.php
+- functions/rank-math-notice.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- images/rank-math-banner.jpg
+- header.php
+- index.php
+- lang/default.pot
+- single.php
+- style.css
+
+
+v1.1.0 (Oct 17, 2018)
+-----------------------------
+- Added life-changing SEO support with an included SEO plugin
+- Added compatibility for Gutenberg editor
+- Security & licensing fixes
+- Fixed php7 warning
+- Fixed other minor CSS issues
+- Important fixes for better performance
+
+Files Updated:
+- functions.php
+- style.css
+- functions/cacert.pem
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- functions/tinymce/tinymce.php
+- functions/twitteroauth.php
+- functions/widget-tweets.php
+- lang/default.pot
+- options/options.php
+
+
+v1.0.6 (May 23, 2018)
+-----------------------------
+- Added GDPR compliant comment form
+
+Files Updated:
+- style.css
+- functions.php
+
+
+v1.0.5 (Mar 29, 2018)
+-----------------------------
+- Fixed plugin install issue on "Install Required Plugins" page
+
+Files Updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- js/addons.js
+- css/addons.css
+
+
+v1.0.4 (Apr 11, 2017)
+ -----------------------------
+ - Include Support tab in Theme Options Panel
+ - Fixed wrong field constructor args in the Options Panel
+ - changed textdomain of Theme Options Panel
+
+ Files updated:
+ - style.css
+ - functions.php
+ - theme-options.php
+ - options/support.php
+ - options/options.php
+ - options/css/options.css
+ - options/js/clipboard.min.js
+ - options/js/help.js
+
+
+v1.0.3 (July 21, 2016)
+-----------------------------
+- Removed widget-tabs.php
+- Fixed the warnings and php errors
+- Update the facebook like widget
+- Update the Twitter widget
+- Update the 125-ad and 300-ad widget
+- Fixed the warnings in Options panel
+- Fixed the pagination
+
+Files Updated
+- style.css
+- functions.php
+- single.php
+- index.php
+- archive.php
+- options/options.php
+- options/css/options.css
+- options/fields/checkbox/field_checkbox.php
+- functions/widget-ad125.php
+- functions/widget-ad300.php
+- functions/widget-fblikebox.php
+- functions/widget-tweets.php
+
+
+v1.0.2 (Mar 22, 2016)
+-----------------------------
+- Updated code on Recommended plugins page
+
+Files updated:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.0.1 (Mar 12, 2016)
+-----------------------------
+- Recommended plugins page changes
+
+Files updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.0 (Nov 29, 2012)
+-----------------------------
+- Theme Released
